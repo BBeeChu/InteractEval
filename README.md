@@ -25,6 +25,7 @@ TBD
 
 ### Think Aloud (TA)
 - Checklist construction based on Think Aloud process
+![think_aloud](https://github.com/user-attachments/assets/fb41ebde-1d4c-4ea7-b154-99e2871ccd09)
 
 
 ## 💻 Getting Started
