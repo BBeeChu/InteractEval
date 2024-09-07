@@ -6,7 +6,7 @@
 [![code](https://img.shields.io/badge/Code-Python3.9-blue)](https://docs.python.org/3/license.html)
 [![data](https://img.shields.io/badge/Data-SummEval-green)](https://github.com/Yale-LILY/SummEval.git)
 
-
+[figure2.pdf](https://github.com/user-attachments/files/16917340/figure2.pdf)
 
 
 
