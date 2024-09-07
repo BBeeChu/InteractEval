@@ -47,10 +47,10 @@ anthropic
 ```
 
 ### How to Run (Evaluator: GPT-3.5-Turbo / Dimension: Coherence)
-<pre>
+```
 pip install -r requirements.txt
 python main.py --model_name gpt-3.5-Turbo --dimension coherence
-</pre>
+```
 
 ## 🔧 Stack
 - **Language**: Python
@@ -61,8 +61,7 @@ python main.py --model_name gpt-3.5-Turbo --dimension coherence
 
 ## Project Structure
 
-<!-- ```markdown -->
-<pre>
+```
 InteractEval
 ├──assets
 ├──data
@@ -85,7 +84,7 @@ InteractEval
 │   │   └── llama
 ├──src
 └── think_aloud
-</pre>
+```
 
 
 ## <img width="24" height="24" src="https://img.icons8.com/emoji/48/llama-emoji.png" alt="llama-emoji"/> How to Run Think Aloud with Llama-3.1
