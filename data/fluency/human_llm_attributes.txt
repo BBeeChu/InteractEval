@@ -1,0 +1,75 @@
+- Check for grammatical correctness. The summary should not contain any grammatical errors such as sentence fragments or missing components.
+- Ensure proper sentence structure. The sentences should be well-structured and logically connected to each other.
+- Look for appropriate use of capitalization. The summary should not have any capitalization errors.
+- Assess the readability of the text. The summary should be easy to read and understand.
+- Verify the absence of formatting problems. The summary should be well-formatted and organized.
+- Consider the flow of the text. The summary should have a smooth flow, with each sentence leading naturally to the next.
+- Evaluate the use of vocabulary. The summary should use appropriate and varied vocabulary to convey the information.
+- Check for repetition. The summary should not unnecessarily repeat information or phrases.
+- Ensure the summary maintains a consistent tense throughout.
+- Look for the use of transition words or phrases to ensure the text flows smoothly and ideas are connected.
+- Check for proper capitalization and punctuation
+- Look for grammatically correct sentences
+- Evaluate the clarity of sentence structure and word order
+- Assess the use of cohesive language and transition words
+- Check for formatting issues such as missing or extra spaces
+- Consider the overall flow and readability of the text
+- Check for consistency in verb tense and subject-verb agreement
+- Evaluate the use of concise and clear language
+- Assess the presence of unnecessary words or phrases
+- Consider the overall tone and style of the summary
+- Check for any spelling errors or typos
+- Evaluate the use of active and passive voice effectively
+- Assess the use of precise and accurate language
+- Consider the overall length and concision of the summary
+- Check for any awkward or unnatural phrasing
+- Are there any incomplete sentences that disrupt the flow?
+- Are there any run-on sentences that make it hard to follow the meaning?
+- Is the punctuation used correctly to create natural pauses and clarity?
+- Are there any awkward phrasings or grammatical errors that make the sentences difficult to understand?
+- Does the text read smoothly and effortlessly, like natural speech?
+- Would a reader need to re-read sentences to grasp the intended meaning due to fluency issues?
+- Check for proper capitalization, especially at the beginning of sentences and for proper nouns
+- Ensure complete sentences are used, avoiding fragments or missing key components
+- Look for correct grammar usage throughout the summary
+- Assess whether sentences flow logically and coherently from one to the next
+- Verify appropriate punctuation is used, including periods at the end of sentences
+- Examine sentence structure for variety and readability
+- Check for any formatting issues that could hinder readability
+- Ensure proper verb tenses are used consistently
+- Look out for run-on sentences that may be difficult to follow
+- Verify pronoun usage is clear and references are unambiguous
+- Check for appropriate use of transition words or phrases between sentences
+- Assess whether sentence length varies appropriately to maintain reader interest
+- Ensure no unnecessary repetition of words or phrases that could disrupt flow
+- Verify subject-verb agreement in all sentences
+- Look for any awkward phrasing that could be simplified for better readability
+- Is the sentence structurally complete?
+- Is the summary of the event easy to understand?
+- Are the sentences easy to comprehend?
+- Are there any grammatical errors in the sentences?
+- Can the content be understood by reading the summary?
+- Is punctuation used correctly?
+- Are all necessary elements included within the sentences of the summary?
+- Are the sentence structures (e.g., subject, verb, object) fully formed within the sentences?
+- Check for proper capitalization.
+- Ensure consistency between subjects and verbs.
+- Determine whether incomplete sentences exist (e.g., missing verbs).
+- Consider whether the sentence is understandable, even if it is grammatically correct.
+- Ensure that sentences are semantically connected.
+- Check for missing punctuation.
+- Check whether sentences are confusing.
+- A summary should be straightforward and not confusing.
+- Ensure proper sentence order to aid comprehension.
+- Pronouns should not be used in an awkward manner.
+- The order of information should be appropriate to help understanding.
+- Check for glaring errors in the summary.
+- Identify any jarring errors that disrupt the flow of the summary.
+- Ensure that sentences are not repeated within the summary.
+- Verify correct capitalization throughout the summary.
+- Assess whether the text is confusing or awkward to read.
+- Check if any sentences stop midway and are incomplete.
+- Ensure the summary includes content related to at least two interrogative pronouns.
+- Confirm that the summary is comprehensible, even if it is free from grammatical errors.
+- Ensure that all required grammatical elements are used correctly to complete sentences.
+- Verify that there are no repeated sentences in the summary.

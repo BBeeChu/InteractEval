@@ -1,0 +1,58 @@
+- Check if the summary includes only important information from the source document. It should not contain irrelevant details.
+- Assess if the summary avoids redundancies. The same information should not be repeated in different sentences.
+- Ensure the summary does not contain excess information. It should be concise and to the point.
+- Verify if the summary accurately represents the main points of the source document. It should not misrepresent or distort the original content.
+- Consider if the summary maintains the context of the original news article. It should not introduce new topics or stray from the original context.
+- Evaluate if the summary is coherent and logically structured. The information should flow smoothly and make sense as a standalone text.
+- Check if the summary avoids personal interpretations or opinions. It should stick to the facts presented in the source document.
+- Identify the main topic or issue in the original article
+- Determine the most important information to include in the summary
+- Check for redundancy and excess information in the summary
+- Ensure the summary only includes information from the original article
+- Evaluate the summary's ability to convey the original article's main message
+- Consider the summary's length and whether it effectively conveys the original article's content
+- Assess the summary's clarity and coherence
+- Evaluate the summary's ability to accurately represent the original article's tone and style
+- Consider the summary's use of relevant keywords and phrases from the original article
+- Check for any omissions or inaccuracies in the summary
+- Evaluate the summary's ability to stand alone as a concise representation of the original article
+- Consider the summary's usefulness in conveying the original article's main points to a reader who has not read the original article
+- Assess the summary's ability to facilitate understanding of the original article's content
+- Evaluate the summary's relevance to the original article's purpose and audience
+- Consider the summary's effectiveness in conveying the original article's key takeaways
+- Does the summary accurately reflect the key points of the news article without introducing any new or irrelevant information?
+- Does the summary prioritize the most crucial information from the article, ensuring that the most important details are included?
+- Does the summary avoid including trivial or less significant details that might detract from the overall understanding of the news?
+- Is the length of the summary appropriate in relation to the original article, avoiding unnecessary wordiness or repetition?
+- Does the summary maintain a clear and concise writing style, focusing on delivering the essential information effectively?
+- Does the summary avoid including opinions, interpretations, or any subjective statements not directly stated in the original article?
+- Focus on including only the most important information from the source article
+- Avoid redundancies or repetitive content in the summary
+- Exclude minor details or excess information that is not central to the main points
+- Ensure the summary captures the key facts, events, or claims from the original article
+- Check that the summary does not introduce new information not present in the source
+- Verify that the summary provides adequate context for the main ideas it presents
+- Assess whether the summary gives a balanced representation of the article's content
+- Look for concise phrasing that conveys information efficiently
+- Confirm that the summary does not omit any crucial elements from the original
+- Evaluate if the summary maintains the overall meaning and intent of the source article
+- Is the important content of the source text well reflected?
+- Are the necessary details well mentioned in the content covered by the summary?
+- Does the summary include any trivial details?
+- Is the summary clearly structured to avoid confusion?
+- Is the explanation of the event presented first in the summary?
+- Does the summary include the important information from the source text along with supporting details?
+- Are the events and people's reactions mentioned in the source text well represented in the summary?
+- Are the actions and relationships of the main actors in the source text clearly shown in the summary?
+- Is the content that should not be omitted from the source text sufficiently reflected?
+- The summary should contain information that captures people's interest.
+- Check whether the summary includes the main information.
+- Should the evaluator read the source text again?
+- Does the summary contain too much detail from the source text?
+- Does the summary include the core purpose of the source text?
+- Every sentence should involve important points relevant to the source text.
+- The sentences in the summary should not be vague.
+- Check if the summary includes the main point of the source text.
+- Ensure the summary does not contain content not mentioned in the source text.
+- Assess whether the summary includes content that becomes more important as the text progresses.
+- Confirm that the summary includes at least the basic points of the source text, even if it does not fully cover all important points.
