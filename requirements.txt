@@ -1,0 +1,11 @@
+accelerate
+git+https://github.com/huggingface/transformers
+jinja2>=3.1.0
+openai==0.28.0
+pandas
+tiktoken
+scipy
+prettytable
+google-generativeai
+jupyter
+anthropic
