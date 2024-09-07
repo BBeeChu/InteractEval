@@ -1,0 +1,5 @@
+Attributes:
+{}
+Please, provide your answer in a List format with the list of components.
+For example, 
+["component 1", "component 2", "component 3", ...]

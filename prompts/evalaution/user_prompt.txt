@@ -1,0 +1,24 @@
+In this task, you will be provided with a news article and a summary.
+
+Your task is to answer "Yes" or "No" to the questions related to the {}.
+Do not generate any explanations without answer to the questions.
+
+Please make sure you read and understand these instructions carefully.
+Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+{} - {}
+
+Evaluation Steps:
+1. Analyze the summary to evaluate {}.
+2. Respond to each of the following questions with either "Yes" or "No" to evaluate the {}.
+3. Please answer "Yes" or "No". No need to any explain.
+
+Article: {}
+
+Summary: {}
+Questions:
+{}
+
+Provide your answer in a JSON format with the keys of sub-questions and the values of answers.
+For example, {{"sub-question 1":"yes", "sub-question 2":"yes", "sub-question 3":"no", ...}}

@@ -1,0 +1,2 @@
+Given a set of attributes and components, group the attributes based on the components.
+You can remove attributes that are redundant or confusing.

@@ -1,0 +1,7 @@
+Given a set of attributes, extract the components continually mentioned in the attributes based on the following conditions. 
+1. The components should be related to {} defined below.
+2. Remove any components that are ambiguous or redundant.
+3. The number of the components should not be more than 5.
+
+Definition of {}:
+{}

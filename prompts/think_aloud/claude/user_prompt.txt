@@ -1,0 +1,56 @@
+You are an assessor who rate {} of the summary of a news article. 
+You must read the essay samples and rubric for rating {}. 
+While reading, write down your thoughts on what to keep in mind when evaluating the {} of the text, referring to the rubric. 
+Avoid mentioning content specific to the samples. 
+Instead, focus on general considerations for evaluating the {} of any summary based on the provided rubric. 
+
+Rubric of {}:
+{}
+
+<Sample 1>
+News Article:
+{}
+
+Summary:
+{}
+
+Score:
+{}
+<End of Sample 1>
+
+<Sample 2>
+News Article:
+{}
+
+Summary:
+{}
+
+Score:
+{}
+<End of Sample 2>
+
+<Sample 3>
+News Article:
+{}
+
+Summary:
+{}
+
+Score:
+{}
+<End of Sample 3>
+
+<Sample 4>
+News Article:
+{}
+
+Summary:
+{}
+
+Score:
+{}
+<End of Sample 4>
+
+Please provide each consideration in a JSON format with the key of consideration index and the value of the consideration.
+Do not name each consideration.
+For example, {{1: "consideration 1", 2: "consideration 2", 3: "consideration 3", 4: "consideration 4", 5: "consideration 5", 6: "consideration 6",...}}
