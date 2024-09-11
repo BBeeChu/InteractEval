@@ -30,66 +30,6 @@ TBD
 
 ## 💻 Getting Started
 
+# Our code will be made available upon acceptance. Stay tuned for updates!
 
-### Installation
-```
-accelerate
-git+https://github.com/huggingface/transformers
-jinja2>=3.1.0
-openai==0.28.0
-pandas
-tiktoken
-scipy
-prettytable
-google-generativeai
-jupyter
-anthropic
-```
-
-### How to Run (Evaluator: GPT-3.5-Turbo / Dimension: Coherence)
-```
-pip install -r requirements.txt
-python main.py --model_name gpt-3.5-Turbo --dimension coherence
-```
-
-## 🔧 Stack
-- **Language**: Python
-- **Utilized LLMs**: GPT-4/3.5-Turbo, Gemini-1.5-Pro, Llama-3.1-8B-Instruct, Claude-3.5-Sonnet
-- **Dependencies** : Refer to "requirements.txt"
-- **Dataset** : SummEval
-
-
-## Project Structure
-
-```
-InteractEval
-├──assets
-├──data
-│   ├── coherence
-│   ├── consistency
-│   ├── fluency
-│   └── relevance
-├──prompts
-│   ├── checklist_construction
-│   │   ├── attributes_clustering
-│   │   ├── component_extraction
-│   │   ├── question_generation
-│   │   ├── question_validation
-│   │   ├── sub_question_generation
-│   ├── evaluation
-│   ├── think_aloud
-│   │   ├── claude
-│   │   ├── gemini
-│   │   ├── gpt
-│   │   └── llama
-├──src
-└── think_aloud
-```
-
-
-## <img width="24" height="24" src="https://img.icons8.com/emoji/48/llama-emoji.png" alt="llama-emoji"/> How to Run Think Aloud with Llama-3.1
-<pre>
-git lfs install
-git clone https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct
-</pre>
 
