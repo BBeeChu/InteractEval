@@ -1,0 +1,5 @@
+{
+    "openai":"{api_key}",
+    "google":"{api_key}",
+    "anthropic":"{api_key}"
+}
