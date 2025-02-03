@@ -51,7 +51,7 @@ anthropic
 ### How to Run (Evaluator: GPT-3.5-Turbo / Data: SummEval / Dimension: Coherence)
 <pre>
 pip install -r requirements.txt
-generate a checklist by "./summeval_checklist_construction.ipynb"
+generate a checklist by running "./summeval_checklist_construction.ipynb"
 python ./src/main.py --model_name gpt-3.5-Turbo --dimension coherence"
 </pre>
 
