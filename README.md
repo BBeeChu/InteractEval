@@ -28,7 +28,7 @@ CHI, 2025. [`arXiv`](https://arxiv.org/abs/2409.07355)
 
 ### Think Aloud (TA)
 - Checklist construction based on Think Aloud process
-
+![Image](https://github.com/user-attachments/assets/aac12282-33d5-4fe9-80da-cfbdb14a3a18)
 
 ## 💻 Getting Started
 
