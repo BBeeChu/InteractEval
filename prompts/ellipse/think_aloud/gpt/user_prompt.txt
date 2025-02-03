@@ -1,0 +1,72 @@
+Rubric of {}:
+{}
+
+<Sample 1>
+Topic:
+{}
+
+Essay:
+{}
+
+Score:
+{}
+<End of Sample 1>
+
+<Sample 2>
+Topic:
+{}
+
+Essay:
+{}
+
+Score:
+{}
+<End of Sample 2>
+
+<Sample 3>
+Topic:
+{}
+
+Essay:
+{}
+
+Score:
+{}
+<End of Sample 3>
+
+<Sample 4>
+Topic:
+{}
+
+Essay:
+{}
+
+Score:
+{}
+<End of Sample 4>
+
+<Sample 5>
+Topic:
+{}
+
+Essay:
+{}
+
+Score:
+{}
+<End of Sample 5>
+
+<Sample 6>
+Topic:
+{}
+
+Essay:
+{}
+
+Score:
+{}
+<End of Sample 6>
+
+Please provide each consideration in a JSON format with the key of consideration index and the value of the consideration.
+Do not name each consideration.
+For example, {{1: "consideration 1", 2: "consideration 2", 3: "consideration 3", 4: "consideration 4", 5: "consideration 5", 6: "consideration 6",...}}

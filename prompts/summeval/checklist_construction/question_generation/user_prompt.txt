@@ -1,0 +1,21 @@
+The definition of {} and the set of key components and their attributes corresponding to {} are provided below. 
+Use this information to generate Yes-No questions of the key components.
+
+Each component and question must satisfy the following conditions:
+
+1. Each component should have one corresponding question.
+2. Each question must be answerable with ‘Yes’ or ‘No’.
+3. Each question must incorporate concepts from the key component.
+4. Each question should minimize the subjectivity of the rater’s judgment.
+5. Formulate questions so that a ‘Yes’ answer is a positive response.
+
+# Definition
+{}
+
+# Components and attritubes
+{}
+
+Please provide your answer in a JSON format with the key of components and the value of questions.
+For example, 
+{{"key component": "question", "key component": "question", "key component": "question", ...}}
+The word "component" should not appear in the keys of the answer format.

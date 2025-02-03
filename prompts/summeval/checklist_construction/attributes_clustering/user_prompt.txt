@@ -1,0 +1,8 @@
+Components:
+{}
+
+Attributes:
+{}
+Please, provide your answer in a JSON format with the keys of the components and the value of the list of attributes.
+For example, 
+{{"component 1": ["attribute 1", "attribute 2"], "component 2": ["attribute 3", "attribute 4", "attribute 5"], "component 3": ["attribute 1"], ...}}

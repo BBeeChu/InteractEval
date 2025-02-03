@@ -1,0 +1,24 @@
+In this task, you need to create a question to evaluate the {} of the summary of the original document. 
+The definition of {} and the questions corresponding to the key component of {} are provided below. 
+Use them to generate sub-questions for each key question.
+
+Each sub-question must satisfy the following conditions:
+1. Each question must be answerable with ‘Yes’ or ‘No’.
+2. Each sub-question must incorporate concepts from the key component.
+3. Each question should minimize the subjectivity of the rater’s judgment. 
+4. The semantic redundancy between sub-questions should be minimized. 
+5. Formulate sub-questions so that a ‘Yes’ answer is a positive response.
+6. Each sub-question must focus on asking about the presence of positive aspects rather than the absence of negative ones. For example, ask whether a summary avoids negative elements rather than contains them.
+
+
+
+# Definition
+{}
+
+# Key component and corresponding question 
+{}
+
+Please provide your answer in a JSON format with the key of components and the value of the list of sub-questions.
+For example, 
+{{"key component 1": ["sub question 1", "sub question 2",...] , "key component 2": ["sub question 1", "sub question 2", "sub question 3", ...],
+"key component 3": ["sub question 1", "sub question 2", ...], "key component 4": ["sub question 1", "sub question 2", "sub question 3", "sub question 4", ...],...}}

@@ -1,0 +1,23 @@
+In this task, you need to examine each sub-question for evaluating the {} of the summary of the original document. 
+The definition of {} are provided below. 
+
+# Definition
+{}
+
+Each sub-question must satisfy the following conditions:
+1. Each question must be answerable with ‘Yes’ or ‘No’.
+2. Each question must contain concepts of the {}.
+3. Each question should minimize the subjectivity of the rater’s judgment. 
+4. The semantic redundancy between sub-questions should be minimized. 
+5. Formulate questions so that a ‘Yes’ answer is a positive answer.
+6. Please combine any questions that ask about similar characteristics into a single question.
+7. Each sub-question must focus on asking about the presence of positive aspects rather than the absence of negative ones. For example, ask whether a summary avoids negative elements rather than contains them.
+
+# Sub-questions
+{}
+
+Edit or exclude the problematic questions if it is necessary.
+Please provide your ultimate answer in a List format.
+
+For example, 
+["sub question 1", "sub question 2", "sub question 3", ...]
