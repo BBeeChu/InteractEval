@@ -13,7 +13,7 @@
 
 
 ## 📖 Overview
-
+![Image](https://github.com/user-attachments/assets/6a8d587e-26bb-4f6b-8ef7-2d9e7eac1920)
 This study introduces **InteractEval**, a framework that integrates the outcomes of Think-Aloud (TA) conducted by humans and LLMs to generate attributes for checklist-based text evaluation. By combining humans' flexibility and high-level reasoning with LLMs' consistency and extensive knowledge, InteractEval outperforms text evaluation baselines on a text summarization benchmark (SummEval) and an essay scoring benchmark (ELLIPSE). Furthermore, an in-depth analysis shows that it promotes divergent thinking in both humans and LLMs, leading to the generation of a wider range of relevant attributes and enhancement of text evaluation performance. A subsequent comparative analysis reveals that humans excel at identifying attributes related to internal quality (Coherence and Fluency), but LLMs perform better at those attributes related to external alignment (Consistency and Relevance). Consequently, leveraging both humans and LLMs together produces the best evaluation outcomes, highlighting the necessity of effectively combining humans and LLMs in an automated checklist-based text evaluation.
 
 ## 📑 Paper
