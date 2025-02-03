@@ -19,7 +19,7 @@ This study introduces **InteractEval**, a framework that integrates the outcomes
 ## 📑 Paper
 **Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**  
 *Seong Yeub Chu, Jong Woo Kim, Mun Yong Yi*  
-CHI, 2025. [`arXiv`](https://arxiv.org/abs/2409.07355)
+Proceedings of the Conference on Human Factors in Computing Systems (CHI '25). [`arXiv`](https://arxiv.org/abs/2409.07355)
 
 ## ⭐ Main Feature
 
