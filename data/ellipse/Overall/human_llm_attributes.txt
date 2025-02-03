@@ -1,0 +1,89 @@
+- Consider the range of vocabulary used in the essay. A limited range of familiar words or phrases loosely strung together indicates a lower score.
+- Evaluate the grammar, syntax, and usage in the essay. Frequent errors in these areas can impede communication and lower the overall score.
+- Assess the organization of the essay. A well-structured essay with clear connections between ideas will score higher.
+- Look at the sentence formation and word choice. Inconsistent facility in these areas can lower the score.
+- Consider the accuracy in grammar and conventions. High scoring essays will have precise use of grammar and conventions with rare inaccuracies.
+- Evaluate the overall communication of the essay. If language inaccuracies impede communication frequently, the score will be lower.
+- Consider the syntactic variety and range of words and phrases. A higher score will be given to essays that demonstrate a facility in the use of language with syntactic variety.
+- Assess the overall control of the text organization. Well-controlled text organization will result in a higher score.
+- Consider the overall impact of language inaccuracies. If these inaccuracies do not impede communication, the score will be higher.
+- Evaluate the overall native-like facility in the use of language. Essays that demonstrate this will receive the highest score.
+- Assess the range and appropriateness of vocabulary used
+- Evaluate the accuracy and complexity of grammar and syntax
+- Check for errors in usage and mechanics that may impede communication
+- Examine the overall organization and development of ideas
+- Consider the consistency and control of sentence formation
+- Look for syntactic variety and appropriate word choice
+- Evaluate how well the text flows and connects ideas
+- Assess the level of language accuracy and its impact on communication
+- Consider the overall facility in language use, from basic to native-like
+- Check for the presence and effectiveness of transition words/phrases
+- Evaluate the precision and appropriateness of grammar and conventions use
+- Assess the essay's ability to communicate ideas clearly and effectively
+- Look for evidence of controlled text organization
+- Consider the overall sophistication of language use
+- Evaluate the essay's adherence to standard writing conventions
+- How frequently do errors in grammar, syntax, and usage occur? Do these errors significantly impede communication and understanding of the essay's message?
+- Assess the writer's control over sentence structure, vocabulary, and mechanics. Is there consistency in these areas?  How well-developed and effective is the organization of the essay? Do language inaccuracies frequently hinder communication?
+- Does the writing rely heavily on simple sentence structures and common vocabulary? Is the organization generally clear, though with occasional lapses in connections between ideas?  Do errors in grammar, syntax, and usage sometimes impede communication, but not consistently?
+- Does the writing demonstrate syntactic variety and a broader range of vocabulary?  Is the organization of the essay well-controlled, guiding the reader logically through the ideas?  Are grammatical errors and inaccuracies infrequent and rarely interfere with communication?
+- Does the writing exhibit a native-like fluency and command of language, with varied sentence structures and precise word choices?  Is the organization of the essay sophisticated and highly effective?  Are errors in grammar and conventions extremely rare and never impede communication?
+- Assess the writer's ability to use a range of vocabulary and sentence structures.
+- Consider the writer's organization and control of ideas.
+- Evaluate the writer's use of grammar and syntax, including accuracy and consistency.
+- Assess the writer's ability to convey their message clearly and effectively.
+- Consider the writer's ability to use language accurately and with precision.
+- Evaluate the writer's ability to use language that is natural and fluent.
+- Consider the writer's ability to use transitions and connections between ideas.
+- Assess the writer's ability to use language that is engaging and interesting.
+- Consider the writer's ability to use language that is formal and appropriate for the task.
+- Evaluate the writer's ability to use language that is precise and accurate.
+- Consider the writer's ability to use language that is varied and sophisticated.
+- Assess the writer's ability to use language that is clear and concise.
+- Consider the writer's ability to use language that is free from errors and inaccuracies.
+- Evaluate the writer's ability to use language that is well-organized and easy to follow.
+- Consider the writer's ability to use language that is engaging and persuasive.
+- Assess the writer's ability to use language that is formal and professional.
+- Consider the writer's ability to use language that is clear and concise.
+- Evaluate the writer's ability to use language that is varied and sophisticated.
+- Consider the writer's ability to use language that is engaging and interesting.
+- Assess the writer's ability to use language that is precise and accurate.
+- An essay should not contain errors that impede understanding.
+- An essay should be readily readable.
+- An essay should join up ideas well.
+- Check whether a reader should reread the essay.
+- Check whether the early part contains errors that block understanding.
+- Variety of word choice and grammar should be considered.
+- Consider whether an essay seems to be written by a native speaker.
+- An essay should not miss information which makes hard to understand.
+- Sentences should flow well.
+- Does an essay give good impression?
+- The essay should exhibit a clear and well-structured organization.
+- The overall quality across all dimensions should be high.
+- The essay should maintain a focused and coherent central idea.
+- The central idea should be effectively developed and clearly presented throughout the essay.
+- Supporting examples should strongly reinforce the main argument or opinion.
+- The essay should demonstrate a cohesive and concise structure.
+- A well-defined "introduction-body-conclusion" format should be followed.
+- The essay should convey a clear and well-articulated opinion.
+- Transitional words should be used appropriately to enhance flow. 
+- Clear transitions should connect ideas between paragraphs.
+- The essay should avoid redundant or repetitive paragraphs.
+- The opinion should be clearly stated and presented cohesively.
+- Each paragraph should focus on a single, well-defined topic.
+- Paragraphs should not cover multiple topics to maintain clarity.
+- Opinions should be organized in a logical and cohesive manner.
+- The essay should fully explain ideas with sufficient details.
+- Unnecessary or irrelevant sentences should be avoided.
+- The essay should be concise and tightly written.
+- The content should be easy to read and follow.
+- The essay must clearly convey its message.
+- The essay must avoid being vague or unclear.
+- The essay must maintain cohesion throughout.
+- Grammatical errors must not interfere with readability.
+- The essay must be well-organized.
+- Communication must be clear and unobstructed.
+- The essay should be easy to understand.
+- The essay should remain readable despite any errors.
+- The essay should be well-organized overall.
+

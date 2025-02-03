@@ -1,0 +1,65 @@
+- Check if the summary contains only statements that are entailed by the source document. The summary should not introduce new information that is not present in the original news article.
+- Ensure that the summary does not contain hallucinated facts. These are facts that are not present or suggested in the original news article.
+- Verify that the summary accurately represents the main points of the news article. It should not distort the meaning or context of the original information.
+- Look for any discrepancies between the summary and the news article. Even minor factual inconsistencies can affect the overall consistency rating.
+- Consider the level of detail in the summary. While it should be concise, it should also retain the essential facts from the news article.
+- Assess whether the summary maintains the same tone and perspective as the original news article. A shift in tone or perspective can indicate inconsistency.
+- Check if the summary correctly identifies and summarizes the key events, individuals, or entities in the news article.
+- Ensure that the summary does not omit any crucial information from the news article. Important details should be included for the summary to be consistent with the source.
+- The summary must only contain statements that are entailed by the source document.
+- Annotators should penalize summaries that contain hallucinated facts.
+- The summary should accurately convey the main ideas and key information from the source document.
+- The language and tone of the summary should be consistent with the language and tone of the source document.
+- The summary should not introduce new information or ideas that are not present in the source document.
+- The summary should not omit important information or details from the source document.
+- The summary should accurately represent the relationships between ideas and concepts in the source document.
+- The summary should not contain factual errors or inaccuracies.
+- The summary should be concise and to the point, without unnecessary elaboration or explanation.
+- The summary should be free of bias and subjective interpretation.
+- The summary should accurately convey the author's or speaker's intended meaning and message.
+- The summary should be easy to understand and follow, without requiring prior knowledge or context.
+- The summary should be consistent in its use of terminology and definitions.
+- The summary should accurately represent the source document's structure and organization.
+- The summary should be free of ambiguity and unclear language.
+- Does the summary accurately reflect the information presented in the news article without introducing any new or fabricated details?
+- Are the facts presented in the summary consistent with those in the article, or are there any discrepancies or contradictions?
+- Does the summary avoid mentioning information that is not explicitly stated in the original article?
+- Are any numbers, dates, or statistics presented in the summary accurate and consistent with those in the original news article?
+- Does the summary correctly represent the overall tone and focus of the news article, or does it misinterpret or distort the original meaning?
+- Are any names, locations, or other entities mentioned in the summary consistent with those in the article, and are they spelled correctly?
+- Assess if the summary builds information logically from sentence to sentence, rather than presenting disconnected facts
+- Check if the summary provides a clear overview of the main topic without abrupt shifts in focus
+- Evaluate whether the summary maintains a consistent narrative flow throughout
+- Determine if key details are presented in a sensible order that aids understanding
+- Look for appropriate use of transition words or phrases to connect ideas
+- Consider if the summary avoids unnecessary repetition of information
+- Assess whether the summary maintains proper context when presenting information from the original article
+- Check if the opening sentence effectively introduces the main topic or event
+- Evaluate if the closing sentence provides a suitable conclusion or final key point
+- Determine if the summary stands as a cohesive piece of writing on its own, without requiring additional context
+- Consider whether the length and structure of sentences contribute to overall readability and flow
+- Assess if the summary avoids inclusion of extraneous details that disrupt coherence
+- Check if the core content of the source text (e.g., plot twists, actions of the characters) is sufficiently included in the summary.
+- Ensure that changes in tense, time, and dates in the source text are accurately reflected in the summary.
+- Confirm whether the background or intentions behind events in the source text are properly included in the summary.
+- Check if the content related to key figures in the source text is accurately represented in the summary.
+- Ensure that the hierarchy of information in the source text is well-reflected in the summary.
+- Check if the content of the source text is distorted in the summary.
+- Confirm whether the purpose of the source text is clearly conveyed in the summary.
+- Check if the summary infers any information that cannot be directly obtained from the source text.
+- Ensure that the summary maintains a connection to the content of the source text.
+- Facts in the source text should not be fabricated.
+- Check whether the summary omits many details.
+- Check whether the summary contains inaccurate information.
+- Analyze the verbs and actions in the article with specific details.
+- Ensure that actors and actions are correct in detail.
+- The details in the summary should match the source text with correct verbs and subjects.
+- Check whether the subjects, verbs, and pronouns in the summary are incorrectly matched with the facts in the source text.
+- Check whether the summary includes an incorrect place.
+- Determine whether the LLM makes a judgment that is never mentioned in the source text.
+- When quoting something, the source should be clarified and quoted exactly.
+- If the summary mentions information based on a source from the source text, it should be exact and clarify its source (e.g., According to ...).
+- The facts in the source text should be accurately conveyed, including the use of appropriate articles.
+- Evaluate if the summary adequately represents the key points of the source text.
+- Confirm that the summary provides enough information for the reader to understand without needing to refer back to the source text.
+- Check if the summary avoids adding new information that is not present in the source text.

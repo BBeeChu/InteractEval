@@ -1,0 +1,72 @@
+- Consider the overall organization of the essay. Is there a clear structure and logical flow of ideas?
+- Look for the use of cohesive devices such as transitional words and phrases, reference words, and other linguistic features that connect ideas.
+- Evaluate the effectiveness of these cohesive devices. Are they used appropriately and accurately?
+- Assess the overlap of ideas. Are ideas connected across sentences and paragraphs?
+- Consider the variety of cohesive devices used. Does the writer use a range of devices or rely on a limited set?
+- Look for any repetitive, mechanical, or faulty use of cohesion within and/or between sentences and paragraphs.
+- Consider the clarity of the presentation of ideas. Are ideas clearly expressed and easy to follow?
+- Assess the control of the text organization. Is the organization well controlled and consistent throughout the essay?
+- Check for clear overall organization and logical sequencing of ideas throughout the essay
+- Assess the presence and appropriate use of cohesive devices like transitional words and phrases
+- Evaluate the connection of ideas within and between sentences and paragraphs
+- Look for variety in the types of cohesive devices used rather than repetitive or mechanical usage
+- Consider how well ideas overlap and flow from one to the next
+- Examine the use of reference words to link ideas across the text
+- Determine if cohesive devices are used accurately or with errors
+- Assess whether the organization is consistently well-controlled throughout or only partially developed
+- Look for effective linguistic features that enhance overall cohesion
+- Consider how clearly ideas are presented and connected for the reader
+- Look for the presence and effectiveness of cohesive devices.  A lack of these, or their incorrect usage, contributes to a low score.  The presentation of ideas will likely be unclear in such cases.
+- Check for logical sequencing of ideas. Even if some cohesive devices are present, their inaccurate or repetitive use hinders the overall flow and organization.  A partially developed organization suggests the essay isn't effectively guiding the reader.
+- Assess the variety and control of cohesive devices. While present, a limited range or mechanical/faulty application within or between sentences/paragraphs suggests room for improvement.  Look for instances where more sophisticated devices could strengthen the connection of ideas.
+- Evaluate the appropriate use of a range of cohesive devices, including referencing and transitional words/phrases. The connection of ideas should be generally smooth, with appropriate overlap to create a coherent flow. Examine whether the transitions effectively guide the reader through the essay's logic.
+- Look for consistent and skillful use of a variety of cohesive devices. The text should exhibit a sophisticated control of language to connect ideas seamlessly across sentences and paragraphs. The overlap of ideas should contribute to a richly interconnected and nuanced argument.  The essay should feel like a unified whole, with each part flowing naturally into the next.
+- Look for spelling errors throughout the text, including common mistakes like 'teh' instead of 'the' or 'accomodate' instead of 'accommodate'.
+- Check for capitalization errors, such as failing to capitalize the first word of a sentence or proper nouns.
+- Punctuation errors, such as missing or incorrect use of commas, periods, or other punctuation marks, can be distracting and affect the overall clarity of the text.
+- Consider the consistency of verb tense, subject-verb agreement, and other grammatical rules throughout the text.
+- Assess the use of sentence structure and variety, including the use of simple, compound, and complex sentences.
+- Evaluate the use of transition words and phrases to connect ideas between sentences and paragraphs.
+- Check for consistency in formatting, such as heading styles, font sizes, and margins.
+- Consider the use of clear and concise language, avoiding jargon or overly technical terms that may be unfamiliar to the reader.
+- Assess the overall organization and coherence of the text, including the use of introductions, body paragraphs, and conclusions.
+- Evaluate the use of citations and references, if applicable, to credit sources and maintain academic integrity.
+- Consider the tone and voice of the text, including the use of persuasive language, rhetorical devices, and emotional appeals.
+- Assess the overall clarity and concision of the text, avoiding unnecessary words or phrases that may confuse the reader.
+- Evaluate the use of active and passive voice, including the impact on sentence clarity and readability.
+- Consider the use of metaphors, similes, and other literary devices to enhance the text's meaning and engagement.
+- Assess the overall flow and pacing of the text, including the use of transitions and connecting ideas between paragraphs.
+- Evaluate the use of headings, subheadings, and other visual elements to enhance the text's organization and clarity.
+- Consider the use of technical vocabulary and specialized terms, if applicable, to demonstrate expertise and authority.
+- Assess the overall accuracy and reliability of the text, including the use of credible sources and evidence-based information.
+- Evaluate the use of repetition, including the impact on emphasis and memorability.
+- Consider the overall effectiveness of the text in achieving its purpose, including the use of persuasive language and rhetorical devices.
+- Check whether an essay has many spelling errors.
+- Check whether an essay has spelling errors that make a reader hard to read.
+- An essay should have appropriate periods.
+- Check whether there is a lack of punctuation in an essay.
+- Check whether there is a lack of capitalization in an essay.
+- An essay should have comma in appropriate positions.
+- A writer should avoid overuse of a word.
+- The essay should be written with proper grammar.
+- Punctuation should not be lacking and must be used correctly.
+- Capitalization rules should be followed consistently.
+- Prepositions should be used appropriately and accurately.
+- Clauses should be connected seamlessly and logically.
+- Periods and other punctuation marks should be used correctly to enhance readability.
+- The essay should remain understandable even if there are minor errors in conventions.
+- The essay should be free from spelling errors.
+- A variety of vocabulary should be used to enrich the text.
+- Repetition of the same words should be avoided to maintain diversity in language.
+- Vocabulary should be used correctly and in a grammatically appropriate manner.
+- The essay should avoid the use of slang or informal expressions.
+- Proper capitalization must be used.
+- The essay must be free of spelling errors.
+- Punctuation must be used correctly.
+- Periods must be placed appropriately.
+- The essay must avoid long sentences.
+- Contractions must not be used.
+- Spelling errors should be minimized in the essay.
+- Punctuation should be used correctly.
+- Capitalization should be applied properly.
+

@@ -1,0 +1,62 @@
+- Check if the summary is well-structured and well-organized. It should not just be a heap of related information, but should build from sentence to a coherent body of information about a topic.
+- Ensure that the summary maintains a logical flow of ideas and events. It should not jump around or skip important details that connect the information.
+- Look for clear and concise sentences that accurately represent the main points of the news article. The summary should not include unnecessary details or confusing language.
+- Verify that the summary maintains the same context and meaning as the original news article. It should not misrepresent or distort the information.
+- Assess if the summary provides a complete overview of the news article. It should not leave out key details or end abruptly without a proper conclusion.
+- Consider if the summary maintains the same tone and style as the original news article. It should not change the overall impression or interpretation of the information.
+- The summary should be well-structured and well-organized.
+- The summary should not just be a heap of related information, but should build from sentence to a coherent body of information about a topic.
+- Consider the overall flow of the summary and how each sentence contributes to the main idea.
+- Look for a clear and logical connection between the main idea and the supporting details.
+- Evaluate how effectively the summary conveys the essential information from the original article.
+- Consider whether the summary presents a clear and concise overview of the main points.
+- Assess whether the summary uses transitional words or phrases to connect the ideas between sentences.
+- Consider whether the summary includes any unnecessary information that disrupts the coherence of the text.
+- Evaluate how well the summary maintains a consistent tone and style throughout.
+- Consider whether the summary presents a clear and logical conclusion or final thought.
+- Assess whether the summary effectively uses sentence-level cohesion to create a cohesive text.
+- Consider whether the summary presents a clear and logical structure, with a clear beginning, middle, and end.
+- Evaluate how well the summary conveys the author's purpose and perspective.
+- Consider whether the summary presents a clear and concise thesis statement or main idea.
+- Assess whether the summary effectively uses evidence and examples to support the main idea.
+- Consider whether the summary presents a clear and logical conclusion or final thought based on the evidence and examples presented.
+- Does each sentence logically connect to the one before it, creating a smooth flow of information?
+- Are transitions used effectively to guide the reader between ideas and show the relationship between sentences?
+- Is the summary presented in a well-structured manner, avoiding a disjointed or fragmented presentation of information?
+- Does the summary build upon information logically, leading to a clear and cohesive understanding of the main points of the article?
+- Does the summary read as a unified whole, with all sentences contributing to a central focus, or does it feel like a collection of loosely related facts?
+- Check if the summary builds information logically from sentence to sentence rather than just listing disconnected facts
+- Assess whether the summary provides a clear overall structure or flow of ideas
+- Look for smooth transitions between sentences and topics
+- Evaluate if the summary conveys the main points of the article in a cohesive manner
+- Determine if the ordering of information in the summary makes sense
+- Check that pronouns and references are clear and consistent throughout
+- Assess whether the summary stands alone as a coherent piece without requiring additional context
+- Look for redundancy or repetition that could disrupt the flow
+- Evaluate if key actors, events, and relationships are introduced clearly
+- Check that cause-effect relationships or chronology are presented logically if relevant
+- Assess whether the summary has a clear beginning, middle, and end
+- Look for the use of appropriate linking words or phrases between ideas
+- Determine if the level of detail is consistent throughout the summary
+- Check if the summary is missing any key elements.
+- Assess whether the content elements are organically connected.
+- Ensure that all the content is clearly understood when reading the summary.
+- Evaluate whether the connections between different situations are well represented.
+- Check if the descriptions of the same subject are well-linked.
+- Assess whether the summary is coherent when read alone.
+- Check if the overall summary includes an introduction, middle, and conclusion.
+- Assess whether the summary is well-organized.
+- Ensure that pronouns are used coherently.
+- Evaluate whether the text is clear or confusing.
+- Check if the sentences are related to each other.
+- Ensure that key contents, such as names, are identifiable from the text.
+- Confirm that the text includes information related to interrogative pronouns.
+- Consider the context in which the information is presented.
+- Ensure that the information or content is organized in a logical order.
+- Check if each sentence is connected to the previous one.
+- Assess whether transitions between sentences are formed well.
+- Ensure that sentences are connected to each other.
+- Pay attention to the correct use of pronouns.
+- Check if emotional or empathetic language is used effectively.
+- Ensure that capitalization is correctly applied throughout the text.
+- Assess whether joining words are well-used to enhance readability.

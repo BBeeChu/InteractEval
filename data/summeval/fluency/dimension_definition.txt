@@ -1,0 +1,1 @@
+The quality of individual sentences. Drawing again from the DUC quaity guidlines, sentences in the summary "should have no formatting problems, capitalization errors or obviously ungrammatical sentences (e.g., fragments, missing components) that make the text difficult to read."

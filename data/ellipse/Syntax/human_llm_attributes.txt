@@ -1,0 +1,50 @@
+- Check for basic errors in sentence structure and word order. The text should not cause confusion due to these errors.
+- Look for sentence variation. The essay should not have many sentence structure problems.
+- Ensure the presence of simple, compound, and complex syntactic structures. The range may be limited and there may be some apparent errors in sentence formation, especially in more complex sentences.
+- Check for appropriate use of a variety of syntactic structures, such as simple, compound, and complex sentences. There should only be occasional errors or inappropriateness in sentence formation.
+- Look for flexible and effective use of a full range of syntactic structures including simple, compound, and complex sentences. There may be rare minor and negligible errors in sentence formation.
+- When evaluating Syntax, I need to look for pervasive and basic errors in sentence structure and word order that lead to confusion.  Frequent basic sentence errors would indicate a score of 1.
+- I should consider the variety of sentence structures. Limited variation, coupled with numerous sentence structure problems, points towards a 2.  While some variation might be present, the errors overshadow the attempts at complexity.
+- The presence of simple, compound, and complex sentences is important for a score of 3. However, the range might be limited, and errors might appear, especially in more complex constructions.  The writing may still be understandable despite these flaws.
+- A score of 4 indicates a generally appropriate use of a variety of sentence structures. While occasional errors might occur, they shouldn't be frequent or significantly impact clarity. I should look for a more consistent and broader use of sentence structures than a 3.
+- A 5 demonstrates flexible and effective use of a full range of syntactic structures.  Errors, if any, are rare, minor, and do not affect clarity.  The writing flows smoothly and demonstrates skillful control of language at the sentence level.
+- Check for basic errors in sentence structure and word order that may cause confusion
+- Assess the variety of sentence types used (simple, compound, complex)
+- Look for appropriate use of syntactic structures
+- Evaluate the flexibility and effectiveness of sentence structures
+- Consider the frequency and severity of errors in sentence formation
+- Examine the range of syntactic structures employed
+- Note any apparent errors, especially in more complex sentences
+- Assess the overall clarity and coherence of sentence structures
+- Look for appropriate use of transitions between sentences and ideas
+- Consider how well the syntax supports the flow and readability of the essay
+- Pervasive and basic errors in sentence structure and word order that cause confusion
+- Some sentence variation used; many sentence structure problems
+- Simple, compound, and complex syntactic structures present although the range may be limited; some apparent errors in sentence formation, especially in more complex sentences
+- Appropriate use of a variety of syntactic structures, such as simple, compound, and complex sentences; occasional errors or inappropriateness in sentence formation
+- Flexible and effective use of a full range of syntactic structures including simple, compound, and complex sentences; There may be rare minor and negligible errors in sentence formation
+- Check whether an essay has basic errors in word order.
+- An essay should avoid repeated functional words, such as conjunctions.
+- An essay should have proper sentence variation.
+- Check whether there is a lack of complex structure in the essay.
+- Check whether an essay is good in making comparison or contrasting ideas.
+- Check whether an essay conveys its meaning well even if the readability is not good.
+- Check whether the sentences in an essay are too long.
+- The essay should include a variety of sentence structures.
+- A range of grammatical structures should be used effectively.
+- The essay should be clear and easily comprehensible.
+- Words and phrases should be organized logically and cohesively.
+- Periods and other punctuation marks should be used appropriately.
+- Sentences within a paragraph should begin with diverse expressions to avoid repetition.
+- Simple and complex sentences should be balanced and harmonized for better readability.
+- The essay must include clear subjects.
+- Complex sentences must be used appropriately.
+- All sentences must be complete.
+- The essay must incorporate varied syntax.
+- Compound sentences must be utilized.
+- Sentences should avoid unnecessary words that hinder understanding.
+- Sentence structures should be used effectively.
+- Grammar should be fully accurate and controlled.
+- Sentences should be precise and correctly constructed.
+- An essay should incorporate a variety of sentence structures.
+
