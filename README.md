@@ -49,7 +49,7 @@ anthropic
 ```
 
 ### How to Run (Evaluator: GPT-3.5-Turbo / Data: SummEval / Dimension: Coherence)
-* Due to the nature of generative models, where the output varies depending on various conditions such as temperature and seed, the results of the implemented code may vary.
+* Due to the nature of generative models, where the output varies depending on various conditions such as temperature and seed, the results of the implemented code may differ.
 <pre>
 pip install -r requirements.txt
 generate a checklist by running "./summeval_checklist_construction.ipynb"
